@@ -1,5 +1,5 @@
 {
-  "name": "@custom-elements-manifest/analyzer",
+  "name": "@maxpatiiuk/custom-elements-manifest-analyzer",
   "version": "0.10.3",
   "description": "",
   "license": "MIT",
@@ -11,11 +11,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/open-wc/custom-elements-manifest.git",
+    "url": "https://github.com/maxpatiiuk/custom-elements-manifest.git",
     "directory": "packages/analyzer"
   },
   "author": "open-wc",
-  "homepage": "https://github.com/open-wc/custom-elements-manifest",
+  "homepage": "https://github.com/maxpatiiuk/custom-elements-manifest",
   "bugs": {
     "url": "https://github.com/open-wc/custom-elements-manifest"
   },
